@@ -1,0 +1,129 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+  }
+  
+  nav {
+    background-color: #fff;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .left-side {
+    display: flex;
+    align-items: center;
+  }
+  
+  .mary {
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #cc0000;
+  }
+  
+  .right-side {
+    display: flex;
+  }
+  
+  .right-side a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 20px;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .right-side a:hover {
+    color: #cc0000;
+  }
+  
+  .hire-me-button {
+    background-color: #cc0000;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .hire-me-button:hover {
+    background-color: #990000;
+  }
+.background{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 1036px;
+height: 518px;
+
+
+    
+    
+
+}
+.hardy{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 584px;/*width:500px*/
+    height: 676px;
+}
+.developer{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.front-head{
+    font-family: Open Sans;
+font-weight: 600;
+color:#474747;
+margin-bottom:0px;
+font-family: Open Sans;
+font-size: 45px;
+}
+.front-name{
+font-size: 85px;
+font-weight: 700;
+margin-top:5px;
+margin-bottom:20px;
+}
+.header{
+    
+    display:flex;
+    padding:30px 60px 0px 150px;
+    align-items:center;
+    justify-content:space-between;
+}
+.btn-primary{
+    background:#FD6E0A;
+    width: 219.49px;
+height: 55.01px;
+font-family: Open Sans;
+font-size: 18px;
+font-weight: 700;
+letter-spacing: 0em;
+text-align: center;
+padding:18px 35px;
+border-radius: 5px;
+}
+.
+/* Your existing CSS remains unchanged */
+
+.front-header-details{
+    max-width: 642px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 17px;
+    color: #474747; /* Adjust the color as needed */ 
+    
+  }
+  .header .hardy{
+    width:600px;
+  }
+  .banner-content{
+    width:500px;
+  }
